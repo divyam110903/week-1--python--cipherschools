@@ -1,0 +1,8 @@
+print("hello\"world\"world")
+print('I\'m harshit')
+print("line a\n line b")
+print("name\tHarshit")
+print("this is a  double backlash\\\\")
+print("helll\bo")
+
+
