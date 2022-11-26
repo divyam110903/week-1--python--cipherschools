@@ -1,0 +1,5 @@
+print("line a\n line b" )
+print(r"line a\n line b")
+
+#class 16
+print('\U0001F602')
